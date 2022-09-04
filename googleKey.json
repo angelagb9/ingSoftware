@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "algebraic-creek-361420",
+  "private_key_id": "7aebf6b885441fb20188856774a050d34e735cda",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDByela9oyNjtDu\nCRoWceu98e4JW9HknQFyJlpN8r00ee7FIfHFeTyckVAapjsw+miKYckHfIAh2QpR\nYjbwTn+hM3t5A1mcIX3Rd1R9J9hQw/vPUXpw/lhPoImiKyoUkeNGxsmYRWJ9CCKr\n6yLXEVCo+R2wfJMOaBXxLM2Ek+dCIrCF/QHsvXYWRYb/QpdHGIqI7BT5y7SPLZmf\nArDQb/Woc9F4Bfxzg+0yV+nS019B/UMrSSBV0gEKwqpnFHCXkkFy6C6+rDMrOjgC\ngvMyHLCXUMdCJ5FuvPboR5yftqMv0+9FpIns4vZLbmB1XggIJaVscYg9GjFCN3dp\nlc4iKgylAgMBAAECggEAByUK17n10iVFEjWfMtsl4iWojUtHmIpqWntMAoozzBq/\nwSBggdOXtr0Ly0O8NHDTCGEVEJPYRIc0QG5i0KbQQVD82SgUtnMsqJuh75BXwxiK\nsOjT3xUdi+gDEwnM3h/H1ZzwI09Rk4MIhjaf3PaMNwKiQ9a/9DzFrFPmyt/KG6/L\nw+/orxH9pH8Qc7E06HrDiHIF2LYf6kPMl/0ncE7YVahheE8PT3rsOM8fYSil5DYC\nG65Kw9MAOkYu6pP3/c/PDLAODNU3jhhI7wA1c6YeF+s30x/uOP4lJiJf8nUMWk/r\nMnRS+XQp1a982jwDbqAn6bKlM7Hg/AMQ/4BRlCxj6QKBgQDu7bBCE0JbAdmb0udB\nCaaeX2k+8XW2FEh7FbKlO4PWBbwYuZckdr2w+aMZASfeTjI6uTKo4mngfU/Uk09Q\neEzDg3NvNxbVhUjkPsc1EwZOpP/bZlFbcd4iLhJoYVrd7eUXrhkKv7a7tGZpSFbq\nQMcpdxwRweF5y3dtrQZ4PNYdDQKBgQDPoo70dKAIdeZE4plpm+g2rOHePswCGBMW\n+8O/4o2aCIMas04ehNduO0P8d4EQ0eZjF3w1zYqbsIAw8UM5ahD7dYzhIKAa5MLW\nxGFmQGaxZ5hwEtmyaCh6KgIgvX+FplgaD+asd4IR+XNJxC2+YhlEzPzLOzFwrMCe\npCGrZdI3+QKBgG3O/7rebxi0ePaMr4vMi68t2oj7IEZWfBlVl40pFSY/7HrQkQ5J\nJFU55iOPzGr3NU6X3xiPNmneLdpc+Y7aOy2ANIVgpDXt09pSn+tcmwF6A70qASot\n4xGCayNd2w00UJ3Zfdja03jhKFAq1wdCTkZYX6YpnR8EzBaz9s076IvhAoGBAMWL\nU5cgnmFuSnafYHYp7vSV5w8bj90uKntjbQnS8gXqs1Fj5p8CpDQsDrLUv+bQzPDa\nF0LZG1akxlHKOLsXPrD/VdmawLjVjMnobQJro0iF13JJfPVQQ7J25S9hG0J80LV7\nC2xrB0Uyn40/KIZJruDWZmy1FISu11QXtDDt3uOBAoGBAOS6ePsIKKK2qg+3anrM\nB4+QvrRtk1yA9uTHbymvWhfbC3cK5Oo/6nQx59q4Ej3ecSUVxvAES10Ml0j57vcB\nKjwD6AfadfykPSwpA/yEG6XgobAeLTp5d3r0Urb3RBUyVWGlkog67VSJWSN5pz2q\nTOlprJABnOyHIdo+jatmUMqb\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveserviceaccounttest@algebraic-creek-361420.iam.gserviceaccount.com",
+  "client_id": "114878121026385202850",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveserviceaccounttest%40algebraic-creek-361420.iam.gserviceaccount.com"
+}
