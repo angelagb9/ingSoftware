@@ -9,6 +9,7 @@
   "author": "Angela",
   "license": "ISC",
   "dependencies": {
-    "googleapis": "^107.0.0"
+    "googleapis": "^107.0.0",
+    "jspdf": "^2.5.1"
   }
 }
