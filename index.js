@@ -9,7 +9,7 @@ doc.setFontSize(22);
 doc.text(20, 20, 'This is a title');
 doc.setFontSize(16);
 doc.text(20, 30, 'This is some normal sized text underneath.');
-//doc.save('Test.pdf');
+doc.save('Test.pdf');
 
 
 const folderID = '1g1c8AG6lr0M2pEUwUmcnLmFgGj3ME4ne'
